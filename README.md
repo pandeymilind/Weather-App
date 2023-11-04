@@ -1,5 +1,5 @@
 # Weather-App
-It show weather as per your entered city <br>
+It show weather as per your entered city <br><hr>
 PIP installation <br>
 pip install geopy <br>
 pip install timezonefinder <br>
