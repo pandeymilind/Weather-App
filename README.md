@@ -1,8 +1,8 @@
 # Weather-App
-It show weather as per your entered city 
-PIP installation 
-pip install geopy
-pip install timezonefinder
-pip install requests
-pip install pytz
+It show weather as per your entered city <br>
+PIP installation <br>
+pip install geopy <br>
+pip install timezonefinder <br>
+pip install requests <br>
+pip install pytz <br>
 pip install Pillow
