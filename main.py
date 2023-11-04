@@ -33,7 +33,7 @@ def getweather():
 
     #weather
     #api_key from mpandey.org@gmail.com
-    api_key="f0a6af23e1a11d3601a0eff6a6938f15"
+    api_key="your API key"
     api_url=f"https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&units=metric&exclude=hourly&appid={api_key}"
     json_data=requests.get(api_url).json()
     temp=json_data["current"]["temp"]
